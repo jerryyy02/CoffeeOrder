@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="toppings">Toppings</string>
+    <string name="customer_name">Name</string>
+    <string name="customer_email">Email</string>
+    <string name="whipped_cream">Whipped cream  (Extra ₹5)</string>
+    <string name="chocolate">Chocolate  (Extra ₹5)</string>
+    <string name="quantity">Quantity</string>
+    <string name="other">Other Items</string>
+    <string name="order">Order</string>
+    <string name="toast_one">You can\'t have less than 1 cup!</string>
+    <string name="toast_two">You can\'t have more than 100 cups!</string>
+    <string name="add_wc">Add Whipped cream?</string>
+    <string name="add_choco">Add Chocolate?</string>
+    <string name="total">Total: ₹</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="subject">Just Java order for</string>
+    <string-array name="items_array">
+        <item>None</item>
+        <item>Coffee jelly</item>
+        <item>Espresso rub</item>
+        <item>Café liégeois</item>
+        <item>Tiramisu</item>
+        <item>Roti Kopi</item>
+        <item>Coffee Cake</item>
+        <item>Plain cake donut</item>
+    </string-array>
+</resources>

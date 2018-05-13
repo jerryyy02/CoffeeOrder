@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toppings">टॉपिंग</string>
+    <string name="customer_name">नाम</string>
+    <string name="customer_email">ईमेल</string>
+    <string name="order">ऑर्डर</string>
+    <string name="quantity">मात्रा</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="whipped_cream">व्हीप्ड क्रीम</string>
+    <string name="toast_one">आप 1 कप से कम नहीं कर सकते</string>
+    <string name="toast_two">आप 100 से अधिक कप नहीं कर सकते</string>
+    <string name="add_choco">चॉकलेट जोड़ें?</string>
+    <string name="add_wc">व्हीप्ड क्रीम जोड़ें?</string>
+    <string name="app_name">केवल जावा</string>
+    <string name="thank_you">धन्यवाद!</string>
+    <string name="total">कुल: ₹</string>
+    <string name="subject">केवल जावा आपके लिए</string>
+</resources>
